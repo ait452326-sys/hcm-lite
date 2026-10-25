@@ -1,0 +1,20 @@
+{
+  "name": "hcm-lite-vanilla-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HCM Lite responsive frontend built with plain HTML, CSS and JavaScript",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0",
+    "mongoose": "^9.11.4",
+    "react": "^19.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
